@@ -1,0 +1,3 @@
+[console_scripts]
+pyler = pyler.__main__:main
+
